@@ -154,7 +154,7 @@ ggp <- ggplot(baltimoreNEI,aes(factor(year),Emissions,fill=type)) +
   labs(title=expression("PM"[2.5]*" Emissions, Baltimore City 1999-2008 by Source Type"))
 print(ggp)
 ```
-
+Click [here] for see the bar graph (http://prntscr.com/m9jfib)
 **Of the four types of sources indicated by the type (point, nonpoint, onroad, nonroad) variable, which of these four sources have seen decreases in emissions from 1999–2008 for Baltimore City?**
 
 The `non-road`, `nonpoint`, `on-road` source types have all seen decreased emissions overall from 1999-2008 in Baltimore City.
