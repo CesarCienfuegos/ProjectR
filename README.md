@@ -85,7 +85,7 @@ NEI <- readRDS("summarySCC_PM25.rds")
 SCC <- readRDS("Source_Classification_Code.rds")
 ```
 
-Click [here](http://prntscr.com/m9j5ql) 
+ 
 ## Questions
 
 You must address the following questions and tasks in your exploratory analysis. For each question/task you will need to make a single plot. Unless specified, you can use any plotting system in R to make your plot.
@@ -109,7 +109,7 @@ barplot(
   main="Total PM2.5 Emissions From All US Sources"
 )
 ```
-
+Click [here] for see the bar graph (http://prntscr.com/m9j5ql) 
 **Have total emissions from PM2.5 decreased in the United States from 1999 to 2008?**
 
 As we can see from the plot, total emissions have decreased in the US from 1999 to 2008.
