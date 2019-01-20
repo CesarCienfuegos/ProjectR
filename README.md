@@ -223,7 +223,7 @@ ggp <- ggplot(baltimoreVehiclesNEI,aes(factor(year),Emissions)) +
   labs(title=expression("PM"[2.5]*" Motor Vehicle Source Emissions in Baltimore from 1999-2008"))
 print(ggp)
 ```
-
+Click [here] for see the bar graph (http://prntscr.com/m9kjgz)
 **How have emissions from motor vehicle sources changed from 1999–2008 in Baltimore City?**
 
 Emissions from motor vehicle sources have dropped from 1999-2008 in Baltimore City!
