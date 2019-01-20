@@ -134,7 +134,8 @@ barplot(
   main="Total PM2.5 Emissions From All Baltimore City Sources"
 )
 ```
-
+Click [here] for see the bar graph (http://prntscr.com/m9ja2h) 
+ 
 **Have total emissions from PM2.5 decreased in the Baltimore City, Maryland (fips == "24510") from 1999 to 2008?**
 
 Overall total emissions from PM2.5 have decreased in Baltimore City, Maryland from 1999 to 2008.
